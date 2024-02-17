@@ -1,0 +1,8 @@
+key = value
+FirstName = Akshara 
+LastName = Santosh
+mobilenumber = 9876543211
+email = akshsan@yahoo.com
+password = 12345@678Ak
+confirmpass = 12345@678Ak
+url = https://www.spicejet.com/
